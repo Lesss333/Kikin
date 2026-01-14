@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kikin Gastos</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Crear usuario</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="expenses_tab">Gastos</string>
+    <string name="summary_tab">Resumen</string>
+    <string name="add_expense">Agregar gasto</string>
+    <string name="amount">Monto</string>
+    <string name="description">Descripción</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+</resources>
