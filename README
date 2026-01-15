@@ -1,1 +1,17 @@
 Proyecto Registro de Gastos Android
+
+## Cómo iniciar el programa
+
+1. Abre Android Studio.
+2. Selecciona **Open** y elige la carpeta `/workspace/Kikin`.
+3. Espera a que Gradle sincronice el proyecto.
+4. Conecta un dispositivo Android o inicia un emulador.
+5. Presiona **Run** (o `Shift+F10`) para ejecutar la app.
+
+### Línea de comandos (opcional)
+
+Si prefieres compilar desde la terminal, puedes ejecutar:
+
+```bash
+./gradlew assembleDebug
+```
